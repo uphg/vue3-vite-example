@@ -2,11 +2,18 @@
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
 
-## Recommended IDE Setup
+## 运行
 
-[VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
+```sh
+yarn
+yarn dev
+```
 
-### If Using `<script setup>`
+## 推荐 IED 设置
+
+[VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)。确保在设置中启用 `vetur.experimental.templateInterpolationService`！
+
+### 如果使用 `<script setup>`
 
 [`<script setup>`](https://github.com/vuejs/rfcs/pull/227) is a feature that is currently in RFC stage. To get proper IDE support for the syntax, use [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) instead of Vetur (and disable Vetur).
 
