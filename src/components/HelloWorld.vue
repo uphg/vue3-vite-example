@@ -1,4 +1,5 @@
 <template>
+  <h2>HelloWorld</h2>
   <p>
     推荐的 IDE 设置：
     <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>
